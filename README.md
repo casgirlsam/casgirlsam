@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @casgirlsam
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning python
-- 📫 How to reach me twitter.com/casgirlsam
+- 📫 you can reach me via twitter.com/casgirlsam
 
 <!---
 casgirlsam/casgirlsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
